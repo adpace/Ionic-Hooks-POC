@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "hooks-demo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
